@@ -1,0 +1,6 @@
+C:\Users\domin\RiderProjects\Warcaby\Warcaby\obj\Debug\Warcaby.csprojAssemblyReference.cache
+C:\Users\domin\RiderProjects\Warcaby\Warcaby\obj\Debug\Warcaby.csproj.CoreCompileInputs.cache
+C:\Users\domin\RiderProjects\Warcaby\Warcaby\bin\Debug\Warcaby.exe
+C:\Users\domin\RiderProjects\Warcaby\Warcaby\bin\Debug\Warcaby.pdb
+C:\Users\domin\RiderProjects\Warcaby\Warcaby\obj\Debug\Warcaby.exe
+C:\Users\domin\RiderProjects\Warcaby\Warcaby\obj\Debug\Warcaby.pdb
